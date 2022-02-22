@@ -1,0 +1,23 @@
+
+body {
+
+background-image: url('/Users/anuj/Documents/My files/Bootcamp/Web Development/RN12/Pics/w.jpeg');
+background-size :auto;
+}
+
+a { font-size:60px; }
+a {color: #2666CF}
+h1 {color: white}
+h4 {color: white}
+
+
+h1:hover {
+  background-color: black;
+}
+h4:hover
+{background-color: blue;}
+
+a:hover
+{background-color: white;}
+
+h3 {color: white}
